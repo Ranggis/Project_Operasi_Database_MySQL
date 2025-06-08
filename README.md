@@ -65,8 +65,8 @@ CREATE TABLE buku (
 3. Compile dan jalankan program:
 
 ```bash
-javac Buku.java BukuApp.java
-java BukuApp
+javac Buku.java PerpustakaanApp.java
+java PerpustakaanApp
 ```
 
 ---
